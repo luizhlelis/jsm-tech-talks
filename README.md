@@ -34,6 +34,12 @@
 
 ## Referências
 
+[Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google/pubs/pub36356/)
+
+[Using W3C Trace Context standard in distributed tracing](https://dev.to/luizhlelis/using-w3c-trace-context-standard-in-distributed-tracing-3743)
+
+[[c#] Using W3C Trace Context standard in distributed tracing](https://dev.to/luizhlelis/c-using-w3c-trace-context-standard-in-distributed-tracing-1nm0)
+
 [Why distributed tracing will replace (most) logging](https://www.youtube.com/watch?v=Hv98hU3nj0U)
 
 [Context Propagation makes OpenTelemetry awesome](https://www.youtube.com/watch?v=gviWKCXwyvY)
