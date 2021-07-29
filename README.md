@@ -1,5 +1,9 @@
 # JS+ TechTalks #15 - Padrão Trace Context W3C para rastreamento distribuído
 
+[Slide da apresentação](https://drive.google.com/file/d/1JDN2v-sFWRdPqQGFcSHQwj3D5tiJ4Qud/view?usp=sharing)
+
+[Vídeo da apresentação - Youtube](https://www.youtube.com/watch?v=jCjPL_80bpA)
+
 ## Glossário
 
 - `tracing`: rastreamento / uma prática de baixo nível usada para criar o perfil e analisar códigos por meio de uma combinação de ferramentas de depuração especializadas (Linux dtrace ou Windows ETW).
@@ -51,3 +55,9 @@
 [What is OpenTelemetry?](https://opentelemetry.io/docs/concepts/what-is-opentelemetry/)
 
 [Opentelemetry Glossary](https://opentelemetry.io/docs/concepts/glossary/)
+
+[Repo utilizado no exemplo: dotnet-trace-context](https://github.com/luizhlelis/dotnet-trace-context)
+
+[Repo utilizado no exemplo: django-trace-context](https://github.com/luizhlelis/django-trace-context)
+
+[Repo utilizado no exemplo: open-telemetry-dotnet-user-research](https://github.com/luizhlelis/open-telemetry-dotnet-user-research)
